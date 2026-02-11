@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <>
       <div className="App container">
-        <h1 className="my-4">Web development Training </h1>
+        <h1 className="my-4">Web development Training FOR FDP demo </h1>
 
         <div className="row justify-content-center">
           <div className="col-md-4">
